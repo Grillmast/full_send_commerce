@@ -11,7 +11,7 @@
   * [Tests](#tests)
   * [Contributing](#contributing)
   * [Questions](#questions)
-  * [Link](#links)
+  * [Link](#link)
   ## License
 
     This project is licensed under the MIT license.
