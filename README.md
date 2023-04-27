@@ -11,7 +11,7 @@
   * [Tests](#tests)
   * [Contributing](#contributing)
   * [Questions](#questions)
-  * [Link](#link)
+  * [Screenshots](#screenshots)
   ## License
 
     This project is licensed under the MIT license.
@@ -33,9 +33,9 @@
   ## Questions
   If you have any questions about the repo, please contact [Grillmast](mailto:fake@fake.com).
 
-  ## Link!
+  ## Screenshots 
   
-  [Insomnia_1](https://user-images.githubusercontent.com/115853912/234996758-4be091d3-b418-46e3-852e-3cbd48f5a24f.PNG)
+  ![Insomnia_1](https://user-images.githubusercontent.com/115853912/234996758-4be091d3-b418-46e3-852e-3cbd48f5a24f.PNG)
   
   ![Insomnia_2](https://user-images.githubusercontent.com/115853912/234996799-630a889f-7bc2-4feb-9eb9-77eb9c0d17b7.PNG)
 
