@@ -11,6 +11,7 @@
   * [Tests](#tests)
   * [Contributing](#contributing)
   * [Questions](#questions)
+  * [Link](#links)
   ## License
 
     This project is licensed under the MIT license.
@@ -31,3 +32,5 @@
 
   ## Questions
   If you have any questions about the repo, please contact [Grillmast](mailto:fake@fake.com).
+
+  ## Link
